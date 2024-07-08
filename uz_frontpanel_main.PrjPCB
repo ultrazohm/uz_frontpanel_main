@@ -153,6 +153,23 @@ GenerateClassCluster=0
 DocumentUniqueId=EUTONNES
 
 [Document7]
+DocumentPath=FPC-isoIOs.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YNIXFAUB
+
+[Document8]
 DocumentPath=FrontPanelConnectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEPJNUAS
 
-[Document8]
+[Document9]
 DocumentPath=FPC-isoJTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNFNGWJR
 
-[Document9]
+[Document10]
 DocumentPath=FPC-ETH-DualRJ45.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEUBGRRD
 
-[Document10]
+[Document11]
 DocumentPath=PCB-ButtonBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
