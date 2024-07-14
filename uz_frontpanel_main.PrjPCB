@@ -102,23 +102,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TOUXSEWW
 
 [Document4]
-DocumentPath=DigitalCarrierJack.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=uz_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=PCIe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSRQXCEJ
 
-[Document7]
+[Document6]
 DocumentPath=SSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QONVORUP
 
-[Document8]
+[Document7]
 DocumentPath=uz_frontpanel_main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUTONNES
 
-[Document9]
+[Document8]
 DocumentPath=FPC-isoIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNIXFAUB
 
-[Document10]
+[Document9]
 DocumentPath=FrontPanelConnectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEPJNUAS
 
-[Document11]
+[Document10]
 DocumentPath=FPC-isoJTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNFNGWJR
 
-[Document12]
+[Document11]
 DocumentPath=ETH-PHY_SGMII.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFVPTNML
 
-[Document13]
+[Document12]
 DocumentPath=FPC-ETH-DualRJ45.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEUBGRRD
 
-[Document14]
+[Document13]
 DocumentPath=PCB-ButtonBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNKWTHBF
 
-[Document15]
+[Document14]
 DocumentPath=FPC-isoJTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=SSD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=PCIe.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=FPC-ETH-DualRJ45.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=ETH-PHY_SGMII.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=FPC-isoIOs-IOpQuad.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXZOSBFJ
 
-[Document21]
+[Document20]
 DocumentPath=FPC-isoIOs-IOpSingle.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,8 +390,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFPUERMD
 
-[Document22]
+[Document21]
 DocumentPath=FPC-isoIOs.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=TestLEDs.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=USYWZPGD
+
+[Document23]
+DocumentPath=TestLEDs.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=DigitalCarrierJack.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
