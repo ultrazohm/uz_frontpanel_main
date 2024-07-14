@@ -1,0 +1,3 @@
+I2C=SDA,SCL
+isoFlexIOs=FlexIO01,FlexIO02,FlexIO03,FlexIO04,FlexIO05
+isoIOsCtrl=R\S\T\,I\N\T\
