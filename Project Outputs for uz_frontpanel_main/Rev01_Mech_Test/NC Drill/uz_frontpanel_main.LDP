@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ga92wum\git\UltraZohm\PCB\uz_frontpanel_main\uz_frontpanel_main.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=uz_frontpanel_main-roundholes.txt|DrillLayers=gtl,g1,gp1,g2,g3,gp2,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=uz_frontpanel_main-slotholes.txt|DrillLayers=gtl,g1,gp1,g2,g3,gp2,g4,gbl
