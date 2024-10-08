@@ -514,41 +514,43 @@ UniqueID=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
+VariationCount=7
 Variation1=Designator=R1|UniqueId=\ZGLLANRZ\HRFZOQAA|Kind=1|AlternatePart= 
 Variation2=Designator=R4|UniqueId=\ZGLLANRZ\RTGEJVWC|Kind=1|AlternatePart= 
 Variation3=Designator=R44|UniqueId=\HPBGGCQE\VIPDMZVV\ZAPPYJCH|Kind=1|AlternatePart= 
 Variation4=Designator=R13|UniqueId=\ZGLLANRZ\AQTWDGKL|Kind=1|AlternatePart= 
-Variation5=Designator=R58|UniqueId=\HPBGGCQE\LOWPHYQZ\OCGKWUCB|Kind=1|AlternatePart= 
+Variation5=Designator=R43|UniqueId=\HPBGGCQE\LOWPHYQZ\OCGKWUCB|Kind=1|AlternatePart= 
+Variation6=Designator=C33|UniqueId=\HPBGGCQE\AMLNUSIX\FHFFECIU|Kind=1|AlternatePart= 
+Variation7=Designator=C34|UniqueId=\HPBGGCQE\AMLNUSIX\IYXFRUBY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
 Name=Author
-Value=M. Geier/M. Hoerner
+Value=MG & MH
 
 [Parameter2]
-Name=AuthorParam
-Value=M. Geier/M. Hoerner
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter3]
-Name=FinDate
-Value=07/24
-
-[Parameter4]
-Name=Project
-Value=uz_frontpanel_main
-
-[Parameter5]
-Name=ProjectDate
-Value=07/24
-
-[Parameter6]
 Name=ProjectNameCustom
 Value=uz_frontpanel_main
 
+[Parameter4]
+Name=ProjectDate
+Value=07/24
+
+[Parameter5]
+Name=Project
+Value=uz_frontpanel_main
+
+[Parameter6]
+Name=FinDate
+Value=07/24
+
 [Parameter7]
-Name=ProjectRevision
-Value=Rev01
+Name=AuthorParam
+Value=MG & MH
 
 [Configuration1]
 Name=Sources
