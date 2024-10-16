@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=uz_frontpanel_main-mini.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=uz_frontpanel_main-mini.SchDoc|Designator=U_TestLEDs|SchDesignator=U_TestLEDs|FileName=TestLEDs.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=TestLEDs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=uz_frontpanel_main-mini.SchDoc|Designator=X1|SchDesignator=X1|FileName=DigitalCarrierJack.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DigitalCarrierJack.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
