@@ -550,7 +550,7 @@ Value=uz_frontpanel_main
 
 [Parameter7]
 Name=ProjectRevision
-Value=Rev01
+Value=01
 
 [Configuration1]
 Name=Sources
