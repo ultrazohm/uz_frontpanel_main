@@ -408,40 +408,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=TestLEDs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=USYWZPGD
-
-[Document23]
-DocumentPath=TestLEDs.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document24]
 DocumentPath=DigitalCarrierJack.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document23]
 DocumentPath=PCB-FirstFloor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HAPRQWLG
 
-[Document26]
+[Document24]
 DocumentPath=PCB-ButtonBoard.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document25]
 DocumentPath=PCB-FirstFloor.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,18 +475,50 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document26]
+DocumentPath=altium_subsheets\Logic_DualSupplyOD_HighGND.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SUJYUNSZ
+
+[Document27]
+DocumentPath=FPC-isoIOs-Power_Protection_AP22653.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SRAJQRLG
+
 [ProjectVariant1]
 UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=4
 Variation1=Designator=R1|UniqueId=\ZGLLANRZ\HRFZOQAA|Kind=1|AlternatePart= 
 Variation2=Designator=R4|UniqueId=\ZGLLANRZ\RTGEJVWC|Kind=1|AlternatePart= 
 Variation3=Designator=R13|UniqueId=\ZGLLANRZ\AQTWDGKL|Kind=1|AlternatePart= 
 Variation4=Designator=R43|UniqueId=\HPBGGCQE\LOWPHYQZ\OCGKWUCB|Kind=1|AlternatePart= 
-Variation5=Designator=C33|UniqueId=\HPBGGCQE\AMLNUSIX\FHFFECIU|Kind=1|AlternatePart= 
-Variation6=Designator=C34|UniqueId=\HPBGGCQE\AMLNUSIX\IYXFRUBY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
@@ -549,7 +547,7 @@ Value=uz_frontpanel_main
 
 [Parameter7]
 Name=ProjectRevision
-Value=01
+Value=02
 
 [Configuration1]
 Name=Sources
