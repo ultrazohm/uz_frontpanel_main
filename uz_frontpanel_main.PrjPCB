@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Default
+CurrentVariant=Rev02Batch00
 
 [Preferences]
 PrefsVaultGUID=
@@ -511,9 +511,9 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
-Description=Default
+Description=Rev02Batch00
 AllowFabrication=0
-ParameterCount=0
+ParameterCount=1
 VariationCount=4
 Variation1=Designator=R1|UniqueId=\ZGLLANRZ\HRFZOQAA|Kind=1|AlternatePart= 
 Variation2=Designator=R4|UniqueId=\ZGLLANRZ\RTGEJVWC|Kind=1|AlternatePart= 
@@ -521,33 +521,33 @@ Variation3=Designator=R13|UniqueId=\ZGLLANRZ\AQTWDGKL|Kind=1|AlternatePart=
 Variation4=Designator=R43|UniqueId=\HPBGGCQE\LOWPHYQZ\OCGKWUCB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[Parameter1]
-Name=Author
-Value=MG & MH
+[Parameter2_1]
+Name=ZC_vv
+Value=00
 
-[Parameter2]
+[Parameter1]
 Name=AuthorParam
 Value=MG & MH
 
-[Parameter3]
-Name=FinDate
-Value=07/24
-
-[Parameter4]
+[Parameter2]
 Name=Project
 Value=uz_frontpanel_main
 
-[Parameter5]
+[Parameter3]
 Name=ProjectDate
-Value=07/24
+Value=04/25
 
-[Parameter6]
-Name=ProjectNameCustom
-Value=uz_frontpanel_main
-
-[Parameter7]
+[Parameter4]
 Name=ProjectRevision
 Value=02
+
+[Parameter5]
+Name=ZC_GGG
+Value=004
+
+[Parameter6]
+Name=ZC_PPP
+Value=004
 
 [Configuration1]
 Name=Sources

@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Rev01Batch01
+CurrentVariant=Rev01Batch00
 
 [Preferences]
 PrefsVaultGUID=
@@ -188,7 +188,7 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=4DA2E919-274C-45A2-827E-84AF3E78C2DE
-Description=Rev01Batch01
+Description=Rev01Batch00
 AllowFabrication=0
 ParameterCount=0
 VariationCount=0
