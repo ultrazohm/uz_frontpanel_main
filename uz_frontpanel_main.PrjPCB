@@ -512,7 +512,7 @@ DocumentUniqueId=
 [ProjectVariant1]
 UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Rev02Batch00
-AllowFabrication=0
+AllowFabrication=1
 ParameterCount=1
 VariationCount=4
 Variation1=Designator=R1|UniqueId=\ZGLLANRZ\HRFZOQAA|Kind=1|AlternatePart= 
@@ -548,6 +548,14 @@ Value=004
 [Parameter6]
 Name=ZC_PPP
 Value=004
+
+[Parameter7]
+Name=Organization
+Value=UltraZohm
+
+[Parameter8]
+Name=Website
+Value=www.ultrazohm.com
 
 [Configuration1]
 Name=Sources
